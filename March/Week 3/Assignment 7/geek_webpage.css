@@ -1,0 +1,78 @@
+.header{
+    background-color: white;
+    
+}
+.header img{
+    float: left;
+    height: 75px;
+    width: 250px;
+    margin-right: 180px;
+}
+h4{
+    font-family: sans-serif;
+    display: inline-flex;
+    margin: 30px;
+    
+
+}
+#btn{
+    
+    margin-left: 350px;
+    padding: 10px 30px;
+    color: white;
+    background-color: rgb(50, 196, 50);
+    border-radius: 10px;
+}
+.name{
+    text-align: center;
+    color: rgb(20, 192, 20);
+}
+.Form{
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;   
+}
+
+#name{
+    margin-right: 20px;
+}
+
+.corsel{
+    padding-top: 40px;
+    text-align: center;
+}
+
+.contact{
+    padding-top: 40px;
+    
+    text-align: center;
+}
+
+#phone{
+    margin-right: 20px;
+}
+
+.last{
+    padding-top: 40px;
+    text-align: center;
+}
+
+#completion{
+    margin-right: 20px;
+}
+
+.terms{
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#btn2{
+    
+    margin-left: 420px;
+    padding: 10px 30px;
+    color: white;
+    background-color: rgb(50, 196, 50);
+    border-radius: 10px;
+}

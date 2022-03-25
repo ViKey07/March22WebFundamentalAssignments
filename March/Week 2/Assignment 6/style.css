@@ -1,0 +1,33 @@
+body{
+    margin: 0px;
+    background: url("https://www.pixel4k.com/wp-content/uploads/2019/04/peaceful-blur-background-4k_1555207903.jpg")
+}
+#heading{
+    color: rgb(92, 25, 25);
+}
+#box{
+    width: 500px;
+    margin: auto;
+    padding: 0px;
+}
+#head3{
+    color: antiquewhite;
+}
+#head5{
+    color: antiquewhite;
+}
+form{
+    padding: 10px;
+    margin: 0px;
+}
+h1{
+    text-align: center;
+    padding: 50px;
+}
+#btn{
+    padding: 20px;
+}
+.Name_Class{
+    display: flex;
+    
+}
