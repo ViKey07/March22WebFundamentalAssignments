@@ -1,0 +1,32 @@
+.container{
+    padding: 2vh;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border:2px solid lightgrey;
+    height:90vh;
+    display:grid;
+    gap: 12px;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: 2;
+}
+
+.item{
+    background-color: rgb(70, 70, 70);
+    border:2px solid rgb(70, 70, 70);
+    border-radius: 10px;
+    padding: 12px;
+    margin: 10px;
+}
+
+h3{
+    color: white;
+}
+
+.A{
+    grid-column: 1/span 2;
+}
+
+.B{
+    grid-column: 3;
+    grid-row: 1/span 2;
+}
