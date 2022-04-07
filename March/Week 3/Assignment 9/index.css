@@ -1,0 +1,10 @@
+body{
+    min-width: 100%;
+    background-size: cover;
+    background: url("https://mcdn.wallpapersafari.com/medium/26/53/9xLy1r.jpg");
+}
+
+.container{
+    grid;
+}
+

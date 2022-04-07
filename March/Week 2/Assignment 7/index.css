@@ -1,0 +1,33 @@
+body{
+    margin: 0px;
+    background: url("https://images.pexels.com/photos/1323550/pexels-photo-1323550.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1")
+}
+#heading{
+    color: rgb(92, 25, 25);
+}
+#box{
+    width: 500px;
+    margin: auto;
+    padding: 0px;
+}
+#head3{
+    color: antiquewhite;
+}
+#head5{
+    color: antiquewhite;
+}
+form{
+    padding: 10px;
+    margin: 0px;
+}
+h1{
+    text-align: center;
+    padding: 50px;
+}
+#btn{
+    padding: 20px;
+}
+.Name_Class{
+    display: flex;
+    
+}
